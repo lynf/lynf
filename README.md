@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lynf
-- 👀 I’m interested in programmable logic controllers running on 8 bit AVR and STM32 ARM MCUs
-- 🌱 I’m currently learning my way around Mecrisp-Stellaris forth on STM32F boards
+- 👀 I’m interested in programmable logic controllers running on 8 bit AVR ATMega328 MCUs
 - 💞️ I’m looking to collaborate on ...
 - 📫 I can be reached by email at lynf.yyz@gmail.com 
 
